@@ -1,0 +1,36 @@
+body {
+color: black;
+background-color: lightgray;
+top: 10px;
+}
+
+div.absolute {
+position: absolute;
+top: 5px;
+left: 750px;
+
+}
+
+.center {
+margin: 0;
+position: absolute;
+top: 20%;
+left: 38%;
+}
+
+.box{
+    width: 700px;
+    text-align: left;
+    padding: 10px 30px 25px 40px;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+}
+
+.box2{
+    width: 700px;
+    text-align: left;
+    padding: 10px 30px 25px 40px;
+    background-color: white;
+    color: black;
+}
