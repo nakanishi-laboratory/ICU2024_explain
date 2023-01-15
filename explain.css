@@ -25,6 +25,7 @@ left: 38%;
     background-color: white;
     color: black;
     border-radius: 12px;
+    font-size: 1rem;
 }
 
 .box2{
@@ -33,4 +34,5 @@ left: 38%;
     padding: 10px 30px 25px 40px;
     background-color: white;
     color: black;
+    font-size: 1rem;
 }
